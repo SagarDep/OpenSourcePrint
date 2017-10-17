@@ -3,7 +3,7 @@
  */
 
 public class OpenSourcePrint {
-    void print(){
+    public void print() {
         System.out.println("Hello Open Source");
     }
 }
